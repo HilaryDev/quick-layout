@@ -2,7 +2,7 @@
 
 **A layout builder for developers with deadlines**.
 
-![Screenshot of the site](https://github.com/MaxPerdomo/quick-layout/blob/manage/readme/images-for-readme/sc.png?raw=true)
+![Screenshot of the site](https://github.com/MaxPerdomo/quick-layout/blob/main/readme/images-for-readme/sc.png?raw=true)
 
 - [Visit deployed website](TODO-vercel-link-here)
 
