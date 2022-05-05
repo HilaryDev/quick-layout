@@ -1,6 +1,6 @@
 /* SPDX-License-Identifier: MPL-2.0 */
 
-/* Copyright © 2021 Max Perdomo
+/* Copyright © 2021 HilaryDev
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -117,7 +117,7 @@ const Footer = () => (
             <FlexLeft>
                 <Paragraph>Help & Support</Paragraph>
                 <Paragraph>
-                    <a href="https://github.com/MaxPerdomo/quick-layout/issues">
+                    <a href="https://github.com/HilaryDev/quick-layout/issues">
                         Open an issue on Github
                     </a>
                 </Paragraph>
@@ -128,8 +128,8 @@ const Footer = () => (
                 <Paragraph>Get in touch</Paragraph>
                 <Paragraph>Feel free to reach out to the author of this website</Paragraph>
                 <Paragraph>
-                    <a href="https://github.com/MaxPerdomo/">
-                        Max Perdomo
+                    <a href="https://github.com/HilaryDev/">
+                        HilaryDev
                     </a>
                 </Paragraph>
             </FlexRight>
